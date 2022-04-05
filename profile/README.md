@@ -1,6 +1,6 @@
 <p align="center"> <img src="https://i.imgur.com/kIF9KX7.png" alt="Logo" width="150" height="150"> </a>
 
-<center> <h1>NeoScale</h1> </center>
+<p> <center> <h1>NeoScale</h1> </center> </p>
 
   <p align="center">
     One is just enough
