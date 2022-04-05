@@ -1,8 +1,11 @@
+<center> <h1>NeoScale</h1> </center>
 
-# NeoScale     
-The project is not officially public yet.
+<p align="center">
+    <img src="https://i.imgur.com/kIF9KX7.png" alt="Logo" width="150" height="150">
+  </a>
+
+
 
 ## Volunteering
-- If you feel that you have excellent Java skills and can work independently and in a team, please contact me privately!  
-You can reach me here: [**SilkyFalcon#8240**](https://discord.com/users/445229420869976085/)
+If you want to volunteer, you can reach me there: [**SilkyFalcon#8240**](https://discord.com/users/445229420869976085/)
 
