@@ -6,7 +6,7 @@
     One is just enough
     <br />
     <a href="https://github.com/NeoScale/.github/profile/DOCS.md">
-    <center> <strong>About us »</strong> </center> </a>
+    <strong>About us »</strong></a>
 </p>
 
 
