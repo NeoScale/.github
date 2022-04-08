@@ -10,6 +10,5 @@
 </p>
 
 
-## Volunteering
-If you want to volunteer, you can reach me there: [**SilkyFalcon#8240**](https://discord.com/users/445229420869976085/)
+## ⚠ Under Development
 
